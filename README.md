@@ -1,3 +1,5 @@
+# Hey, I'm Arwa 👋
+
 I'm a Computer Science student in my second year, still exploring where I want to 
 specialize, but I'm especially drawn to AI and Data Science. I've been learning about 
 LLMs, LangChain, RAG systems, and how to integrate AI into real applications, alongside 
