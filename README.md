@@ -1,4 +1,13 @@
-Hey, I'm Arwa 👋<br><br>I'm a 2nd-year Computer Science student building my way into software engineering, <br>one project at a time.<br><br>- 🔭 Currently learning full-stack development (MERN) and AI integration (LangChain, RAG, LLM APIs)<br>- 🌱 Practicing DSA daily and building real, deployed projects — not just tutorials<br>- ⚡ Active in hackathons — always down to build something fast, under pressure, with a team<br>- 🎯 Goal: land a Software Engineering internship for Summer/Fall 2027<br>- 📍 Based in Canada, open to opportunities in Toronto<br><br>Feel free to check out my projects below, or reach out if you want to collaborate! fun fact about me is I love sports and am always down for it<br>
+I'm a Computer Science student in my second year, still exploring where I want to 
+specialize, but I'm especially drawn to AI and Data Science. I've been learning about 
+LLMs, LangChain, RAG systems, and how to integrate AI into real applications, alongside 
+full-stack development (Node, Express, MongoDB, React) to understand how products get 
+built end-to-end. I'm also interested in Data Science & Analysis, working with data, 
+uncovering patterns, and building insight-driven solutions.
+
+I'm not locked into one path yet, I'm open to software engineering, AI/ML roles, data 
+science/analytics, or anything where I can keep learning and building. I learn best by 
+doing, so I focus on real projects and hackathons rather than just watching tutorials.
 
 
 ## 🌐 Socials:
